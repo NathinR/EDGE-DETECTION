@@ -1,4 +1,5 @@
-# EDGE-DETECTION
+# Exp 6 EDGE-DETECTION
+### Date: 22-03-2024
 ## Aim:
 To perform edge detection using Sobel, Laplacian, and Canny edge detectors.
 
